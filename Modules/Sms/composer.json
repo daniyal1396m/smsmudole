@@ -1,0 +1,23 @@
+{
+    "name": "nwidart/sms",
+    "description": "",
+    "authors": [
+        {
+            "name": "Daniel Motahari",
+            "email": "daniyal1396m@yahoo.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Sms\\": ""
+        }
+    }
+}
